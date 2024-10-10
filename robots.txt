@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://oaticate.github.io/sitemap.html.gz
+Sitemap: https://oaticate.github.io/app/sitemap.html.gz
+Sitemap: https://oaticate.github.io/assets/sitemap.html.gz
+Sitemap: https://oaticate.github.io/css/sitemap.html.gz
+Sitemap: https://oaticate.github.io/includes/sitemap.html.gz
+Sitemap: https://oaticate.github.io/item/sitemap.html.gz
+Sitemap: https://oaticate.github.io/src/sitemap.html.gz
